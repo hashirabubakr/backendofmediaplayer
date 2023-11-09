@@ -1,0 +1,168 @@
+{
+  "videos": [
+    {
+      "id": "Dark",
+      "caption": "martha",
+      "url": "https://i.pinimg.com/originals/98/14/e7/9814e7ae5f7062e857f985925b2e0798.jpg",
+      "embedLink": "https://www.youtube.com/embed/ESEUoa-mz2c"
+    },
+    {
+      "id": "Fight club",
+      "caption": "FIGHT CLUB",
+      "url": "https://th.bing.com/th/id/OIP.BjxqRPHGRbHtM1R8Zd7QvwHaLH?pid=ImgDet&rs=1",
+      "embedLink": "https://www.youtube.com/embed/BdJKm16Co6M"
+    },
+    {
+      "id": "Shawshank redemption",
+      "caption": "SHAWSHANK REDEMPTION",
+      "url": "https://th.bing.com/th/id/OIP.mA5SG8RpkLC4PvEhT45igAHaKr?pid=ImgDet&rs=1",
+      "embedLink": "https://www.youtube.com/embed/PLl99DlL6b4"
+    },
+    {
+      "id": "Breaking bad",
+      "caption": "BRBA",
+      "url": "https://c.wallhere.com/photos/9f/19/Breaking_Bad_face_Heisenberg_Walter_White_hat_digital_art-1535735.jpg!d",
+      "embedLink": "https://www.youtube.com/embed/RQHk8&t=51s"
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "Web series",
+      "allVideos": [
+        {
+          "id": "Breaking bad",
+          "caption": "ww",
+          "url": "https://c.wallhere.com/photos/9f/19/Breaking_Bad_face_Heisenberg_Walter_White_hat_digital_art-1535735.jpg!d",
+          "embedLink": "https://www.youtube.com/embed/njtfNPB-YKg"
+        },
+        {
+          "id": "Vikings",
+          "caption": "ragnar",
+          "url": "https://i.pinimg.com/originals/8b/84/4b/8b844b892a764bf90047e95a16aabb1f.jpg",
+          "embedLink": "https://www.youtube.com/embed/WdTtvsMBL_Q"
+        },
+        {
+          "id": "Game of thrones",
+          "caption": "js",
+          "url": "https://th.bing.com/th/id/OIP.lKpFxgZ-jNULlsim7p_PgAHaK-?pid=ImgDet&rs=1",
+          "embedLink": "https://www.youtube.com/embed/rlR4PJn8b8I"
+        },
+        {
+          "id": "Game of thrones",
+          "caption": "js",
+          "url": "https://th.bing.com/th/id/OIP.lKpFxgZ-jNULlsim7p_PgAHaK-?pid=ImgDet&rs=1",
+          "embedLink": "https://www.youtube.com/embed/rlR4PJn8b8I"
+        },
+        {
+          "id": "Game of thrones",
+          "caption": "js",
+          "url": "https://th.bing.com/th/id/OIP.lKpFxgZ-jNULlsim7p_PgAHaK-?pid=ImgDet&rs=1",
+          "embedLink": "https://www.youtube.com/embed/rlR4PJn8b8I"
+        },
+        {
+          "id": "Dark",
+          "caption": "martha",
+          "url": "https://i.pinimg.com/originals/98/14/e7/9814e7ae5f7062e857f985925b2e0798.jpg",
+          "embedLink": "https://www.youtube.com/embed/ESEUoa-mz2c"
+        },
+        {
+          "id": "Shawshank redemption",
+          "caption": "SHAWSHANK REDEMPTION",
+          "url": "https://th.bing.com/th/id/OIP.mA5SG8RpkLC4PvEhT45igAHaKr?pid=ImgDet&rs=1",
+          "embedLink": "https://www.youtube.com/embed/PLl99DlL6b4"
+        },
+        {
+          "id": "Breaking bad",
+          "caption": "Breaking Bad",
+          "url": "https://i.pinimg.com/originals/66/1f/a9/661fa9b668658d54a8275dd5a1813906.jpg",
+          "embedLink": "https://www.youtube.com/embed/XLuRY&t=35s"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "yurryrr",
+      "allVideos": [],
+      "id": 2
+    },
+    {
+      "categoryName": "sulaimaan",
+      "allVideos": [],
+      "id": 3
+    },
+    {
+      "categoryName": "hashir",
+      "allVideos": [],
+      "id": 4
+    },
+    {
+      "categoryName": "nthrrraa",
+      "allVideos": [],
+      "id": 5
+    },
+    {
+      "categoryName": "haashsire",
+      "allVideos": [],
+      "id": 6
+    },
+    {
+      "categoryName": "sugaann",
+      "allVideos": [],
+      "id": 7
+    },
+    {
+      "categoryName": "vaklreeehhh",
+      "allVideos": [],
+      "id": 8
+    },
+    {
+      "categoryName": "sahlkjlasjlkj",
+      "allVideos": [],
+      "id": 9
+    }
+  ],
+  "history": [
+    {
+      "caption": "js",
+      "embedLink": "https://www.youtube.com/embed/rlR4PJn8b8I",
+      "timeStamp": "11/08/2023, 05:50:14 PM",
+      "id": 2
+    },
+    {
+      "caption": "js",
+      "embedLink": "https://www.youtube.com/embed/rlR4PJn8b8I",
+      "timeStamp": "11/08/2023, 07:33:41 PM",
+      "id": 3
+    },
+    {
+      "caption": "js",
+      "embedLink": "https://www.youtube.com/embed/rlR4PJn8b8I",
+      "timeStamp": "11/09/2023, 01:18:43 AM",
+      "id": 4
+    },
+    {
+      "caption": "js",
+      "embedLink": "https://www.youtube.com/embed/rlR4PJn8b8I",
+      "timeStamp": "11/09/2023, 01:35:24 AM",
+      "id": 5
+    },
+    {
+      "caption": "js",
+      "embedLink": "https://www.youtube.com/embed/rlR4PJn8b8I",
+      "timeStamp": "11/09/2023, 06:21:56 PM",
+      "id": 6
+    },
+    {
+      "caption": "ww",
+      "embedLink": "https://www.youtube.com/embed/njtfNPB-YKg",
+      "timeStamp": "11/09/2023, 06:23:58 PM",
+      "id": 7
+    },
+    {
+      "caption": "ww",
+      "embedLink": "https://www.youtube.com/embed/njtfNPB-YKg",
+      "timeStamp": "11/09/2023, 07:14:11 PM",
+      "id": 8
+    }
+  ]
+}
